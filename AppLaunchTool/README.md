@@ -47,6 +47,10 @@ To use the App Launch Tool, follow these steps:
 
 You can customize the behavior of the App Launch Tool by modifying the `launcher.py` script according to your requirements.
 
+## Limitations
+
+Some file names can be tricky and not run as expected so you have to find the name of the real file manually or copy the path. Aditionally running Microsoft default apps have their own syntax so you have to keep that in mind.
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
